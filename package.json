@@ -1,0 +1,24 @@
+{
+  "name": "blue-coast",
+  "version": "1.0.0",
+  "description": "Um terminal alternativo ao Bloomberg.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanimarCosta/Blue-Coast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanimarCosta/Blue-Coast/issues"
+  },
+  "homepage": "https://github.com/DanimarCosta/Blue-Coast#readme",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}

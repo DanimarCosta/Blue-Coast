@@ -1,11 +1,14 @@
-# Biblíotecas
-from sys import displayhook
+from importlib.resources import path
 from numpy import source
 from pandas_datareader import data as web
 import matplotlib.pyplot as plt
-import os
+from os.path import dirname, realpath
 import time
+import json
 
-bovespa = web.DataReader('^BVSP', data_source='yahoo', start="01-01-2020", end="01-01-2021")
-ticket_bovespa = bovespa["Adj Close"].plot()
-plt.show()
+class  JsonManager:
+    def abrir_ticket():
+        with open("data-flow/ticket_bovespa.json") as ticket_bovespa:
+            dados = json.load(ticket_bovespa)
+            
+JsonManager.abrir_ticket()
