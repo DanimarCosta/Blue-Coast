@@ -1,7 +1,526 @@
-{
-    "empresa": ["AMBEV S/A", "AZUL", "B3", "BRASIL", "BRADESCO", "BRADESCO", "BBSEGURIDADE", "MINERVA", "BTGP BANCO", "BRADESPAR", "PETROBRAS BR", "BRF SA", "BRASKEM", "BR MALLS PAR", "B2W DIGITAL", "CCR SA", "CIELO", "CEMIG", "COGNA ON", "", "", "", "", "", "",
-        "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-    
-    "ticket": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-        "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
-}
+[
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    },
+
+    {
+        "empresa": "",
+        "ticket": "",
+        "setor": "",
+        "tipo": ""
+    }
+]
