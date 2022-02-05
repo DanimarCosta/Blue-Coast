@@ -1,2 +1,2 @@
-# Business-Tech
- Um terminal alternativo ao Bloomberg
+# Blue Coast terminal
+ Um terminal alternativo ao Bloomberg. 
